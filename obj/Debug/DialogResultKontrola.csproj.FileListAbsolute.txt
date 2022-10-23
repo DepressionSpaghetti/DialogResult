@@ -1,0 +1,11 @@
+C:\Users\Piero\Documents\School\NiOP\DialogResult\bin\Debug\DialogResultKontrola.exe.config
+C:\Users\Piero\Documents\School\NiOP\DialogResult\bin\Debug\DialogResultKontrola.exe
+C:\Users\Piero\Documents\School\NiOP\DialogResult\bin\Debug\DialogResultKontrola.pdb
+C:\Users\Piero\Documents\School\NiOP\DialogResult\obj\Debug\DialogResultKontrola.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\DialogResult\obj\Debug\DialogResultKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\DialogResult\obj\Debug\DialogResultKontrola.Form1.resources
+C:\Users\Piero\Documents\School\NiOP\DialogResult\obj\Debug\DialogResultKontrola.Properties.Resources.resources
+C:\Users\Piero\Documents\School\NiOP\DialogResult\obj\Debug\DialogResultKontrola.csproj.GenerateResource.cache
+C:\Users\Piero\Documents\School\NiOP\DialogResult\obj\Debug\DialogResultKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\DialogResult\obj\Debug\DialogResultKontrola.exe
+C:\Users\Piero\Documents\School\NiOP\DialogResult\obj\Debug\DialogResultKontrola.pdb
